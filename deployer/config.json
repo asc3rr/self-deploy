@@ -1,0 +1,8 @@
+{
+    "user":"asc3rr",
+    "deploy_hour":22,
+    "tracked_data":[
+        {"repo":"league-bot", "dir":"/etc/deployer"},
+        {"repo":"sendbyte", "dir":"/var/www/html/"}
+    ]
+}
